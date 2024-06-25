@@ -18,10 +18,18 @@ Hi there! I'm a software engineer, blessed with a gorgeous wife and an incredibl
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 
-## About my github account
+## About my GitHub account
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeDude64)](https://github.com/anuraghazra/github-readme-stats)
 [![codeDude's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeDude64)](https://github.com/anuraghazra/github-readme-stats)
+
+## My next goals
+
+- Continue with my C++ project where I show the foundations of computer science.
+- Start a blog to share my experience and knowledge
+- Create a videogame using OpenGL
+- Contribute to an open-source project.
+- I'm pretty fascinated with the diverse social media
 
 ## Hacktoberfest
 [![An image of @codedude's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codedude)](https://holopin.io/@codedude)
