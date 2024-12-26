@@ -2,7 +2,10 @@
 
 Hi there! I'm a software engineer, blessed with a gorgeous wife and an incredible little boy with a deep passion for open-source. **Always learning, always coding!**
 
-[![Matrix](https://img.shields.io/badge/Matrix-black?style=flat-square&logo=matrix)](https://matrix.to/#/@codedude64:matrix.org)
+> [!Note]
+> The projects on this repo are developing now on [codeberg.org](https://codeberg.org/codeDude/dotfiles) in the name of FLOSS. This github repo is working as a mirror, so all the changes on codeberg will be reflected on this github repo.
+
+[![Xmpp](https://img.shields.io/badge/XMPP-purple?style=flat-square&logo=xmpp)](https://xmpp.link/#codeDude@disroot.org)
 [![Mastodon](https://img.shields.io/badge/Mastodon-blue?style=flat-square&logo=mastodon)](https://fosstodon.org/@codeDude)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/codedude/)
 
