@@ -3,7 +3,7 @@
 Hi there! I'm a software engineer, blessed with a gorgeous wife and an incredible little boy with a deep passion for open-source. **Always learning, always coding!**
 
 > [!Note]
-> The projects on this repo are developing now on [codeberg.org](https://codeberg.org/codeDude/dotfiles) in the name of FLOSS. This github repo is working as a mirror, so all the changes on codeberg will be reflected on this github repo.
+> The projects on this account are developing now on [codeberg.org](https://codeberg.org/codeDude) in the name of FLOSS. This github repo is working as a mirror, so all the changes on codeberg will be reflected on some repositories. I'm keeping this github account because the are several FLOSS projects to collaborate. 
 
 [![Xmpp](https://img.shields.io/badge/XMPP-purple?style=flat-square&logo=xmpp)](https://xmpp.link/#codeDude@disroot.org)
 [![Mastodon](https://img.shields.io/badge/Mastodon-blue?style=flat-square&logo=mastodon)](https://fosstodon.org/@codeDude)
